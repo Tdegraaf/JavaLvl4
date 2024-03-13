@@ -1,0 +1,14 @@
+{
+	"class": "Rogue",
+	"level": 1,
+	"hit_points": 8,
+	"proficiency_bonus": 2,
+	"saving_throws": [
+		"Dexterity",
+		"Intelligence"
+	],
+	"features": [
+		"Expertise",
+		"Sneak Attack"
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "class": "Fighter",
+  "level": 1,
+  "hit_points": 10,
+  "proficiency_bonus": 2,
+  "saving_throws": ["Strength", "Constitution"],
+  "features": ["Fighting Style", "Second Wind"]
+}

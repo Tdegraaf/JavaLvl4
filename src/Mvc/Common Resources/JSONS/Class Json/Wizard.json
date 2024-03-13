@@ -1,0 +1,17 @@
+{
+	"class": "Wizard",
+	"level": 1,
+	"hit_points": 6,
+	"proficiency_bonus": 2,
+	"saving_throws": [
+		"Intelligence",
+		"Wisdom"
+	],
+	"features": [
+		"Spellcasting",
+		"Arcane Recovery"
+	],
+	"spell_slots": {
+		"level_1": 2
+	}
+}

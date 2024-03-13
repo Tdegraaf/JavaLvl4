@@ -1,0 +1,17 @@
+{
+	"background": "Bureaucrat",
+	"skills": [
+		"Insight",
+		"Persuasion"
+	],
+	"proficiencies": [
+		"Forgery Kit",
+		"Official Documents"
+	],
+	"equipment": [
+		"Forgery Kit",
+		"Official Documents",
+		"Quill and Ink"
+	],
+	"feature": "Bureaucratic Connections"
+}
