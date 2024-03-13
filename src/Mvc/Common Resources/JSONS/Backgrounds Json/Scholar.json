@@ -1,0 +1,16 @@
+{
+	"background": "Scholar",
+	"skills": [
+		"Arcana",
+		"History"
+	],
+	"proficiencies": [
+		"Languages (Two of your choice)",
+		"Research Tools"
+	],
+	"equipment": [
+		"Research Tools",
+		"Scholar's Pack"
+	],
+	"feature": "Researcher"
+}

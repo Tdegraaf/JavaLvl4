@@ -1,0 +1,17 @@
+{
+	"class": "Cleric",
+	"level": 1,
+	"hit_points": 8,
+	"proficiency_bonus": 2,
+	"saving_throws": [
+		"Wisdom",
+		"Charisma"
+	],
+	"features": [
+		"Spellcasting",
+		"Divine Domain"
+	],
+	"spell_slots": {
+		"level_1": 2
+	}
+}

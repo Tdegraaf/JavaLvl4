@@ -1,0 +1,20 @@
+{
+	"race": "Orc",
+	"ability_bonus": {
+		"strength": 2,
+		"constitution": 1
+	},
+	"size": "Medium",
+	"speed": 30,
+	"languages": [
+		"Common",
+		"Orc"
+	],
+	"traits": [
+		"Darkvision",
+		"Aggressive",
+		"Menacing",
+		"Powerful Build"
+	],
+	"darkvision": true
+}

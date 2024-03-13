@@ -1,0 +1,17 @@
+{
+	"background": "Urchin",
+	"skills": [
+		"Sleight of Hand",
+		"Stealth"
+	],
+	"proficiencies": [
+		"Disguise Kit",
+		"Thieves' Tools"
+	],
+	"equipment": [
+		"Disguise Kit",
+		"Thieves' Tools",
+		"Small Knife"
+	],
+	"feature": "City Secrets"
+}

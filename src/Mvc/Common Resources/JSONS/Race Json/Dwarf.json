@@ -1,0 +1,19 @@
+{
+	"race": "Dwarf",
+	"ability_bonus": {
+		"constitution": 2
+	},
+	"size": "Medium",
+	"speed": 25,
+	"languages": [
+		"Common",
+		"Dwarvish"
+	],
+	"traits": [
+		"Darkvision",
+		"Dwarven Resilience",
+		"Dwarven Combat Training",
+		"Tool Proficiency"
+	],
+	"darkvision": true
+}
