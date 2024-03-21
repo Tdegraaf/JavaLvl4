@@ -15,58 +15,40 @@ de opdracht eisen zijn:
 
 ### **De applicatie**
 
-Character Builder app
+**De Factuur Applicatie**
 
-We gaan voor deze opdracht een character builder maken voor Dungeons and dragons 5th edition
+Achtergrond
 
-deze app krijgt een aantal basis voorbeeldden over hoe een volledige uitgewerkte app eruit kan zien
+De Factuur Applicatie is een softwaretool die is ontworpen om gebruikers te helpen bij het beheren van facturen. Het biedt functionaliteiten voor het aanmaken, bekijken en opslaan van facturen met gedetailleerde informatie zoals relatiegegevens, factuuradres, werkomschrijving, betaaltermijn, bedragen, btw-informatie, projectkoppeling en opmerkingen.
+Doelstellingen
 
-Pagina 1 basis gegevens race uitkiezen
+    Ontwikkel een gebruikersvriendelijke Factuur Applicatie met een intuïtieve interface.
+    Implementeer functionaliteiten voor het aanmaken, bekijken en opslaan van facturen.
+    Zorg voor een gestructureerd en modulair ontwerp volgens het MVC-patroon.
+    Verzeker de nauwkeurigheid van berekeningen en gegevensvalidatie.
+    Documenteer het ontwikkelingsproces en zorg voor duidelijke instructies voor gebruik.
 
-op pagina 1 van de app kun je je ras kiezen 
-zodra je je ras hebt uitgekozen word de pagina geupdate met specifieke informatie over je klas
+Functionaliteiten
 
-voor het gemak van de app gebruiken we 4 rassen Human, Dwarf, Elf en Orc
+    Factuur Aanmaken: Gebruikers moeten in staat zijn om nieuwe facturen aan te maken door relevante informatie in te voeren, waaronder relatiegegevens, factuuradres, werkomschrijving, betaaltermijn, bedragen, btw-informatie, projectkoppeling en opmerkingen.
 
-Pagina 2 de classe uitkiezen 
+    Factuur Bekijken: Gebruikers moeten een samenvatting van de ingevoerde factuurinformatie kunnen bekijken voordat ze de factuur opslaan. De samenvatting moet alle ingevoerde gegevens bevatten, inclusief berekende bedragen en geselecteerde datums.
 
-Op deze pagina kun je je klasse uitkiezen dit houd in in welke stijl je character gaat vechten
+    Factuur Opslaan: Gebruikers moeten in staat zijn om de ingevoerde factuurinformatie op te slaan voor toekomstige referentie. Voordat de factuur wordt opgeslagen, moeten alle verplichte velden worden gecontroleerd en moeten gegevensvalidaties worden uitgevoerd.
 
-ook hier gebruiken we maar een aantal basis klassen
-Fighter, Cleric, Rogue en Wizard.
+    Start- en Einddatum Selecteren: Gebruikers moeten de mogelijkheid hebben om de start- en einddatum te selecteren met behulp van een kalenderwidget voor nauwkeurige datuminvoer.
 
-als je je klasse uitgekozen hebt word deze pagina ook geupdate naar specifieke info over die klasse
+Technische Vereisten
 
-Fighter krijgt bijvoorbeeld verschillende vecht technieken te zien waar je uit kunt kiezen
+    Implementeer de Factuur Applicatie in Java.
+    Gebruik Java Swing voor de grafische gebruikersinterface.
+    Volg het MVC-ontwerppatroon voor een gestructureerde architectuur.
+    Zorg voor een modulair ontwerp om de codebase gemakkelijk te onderhouden en uit te breiden.
+    Voer uitgebreide tests uit om de nauwkeurigheid en stabiliteit van de applicatie te verzekeren.
 
-Cleric krijgt verschillende spells en healing te zien
+Deliverables
 
-rogue krijgt te zien waar hij goed in is bijvoorbeeld will hij een sherlock holmes zijn of een dief
-
-en een wizard zou krijgen e zien wat voor school van magie hij wil en welke spells hij daarvan kan leren
-
-Pagina 3 Abilities
-
-elke character heeft 6 standaard abilities Strength, Dexterity, Constitution, Wisdom, Intelligence en Charisma
-
-deze abilities hebben een minimale waarde van 6 en een maximale waarde van 20
-en de waarde van deze abilities laat zien hoe goed je iets zou kunnen doen. 
-
-deze abilities kun je op 2 manieren doen in deze app je kan ze laten invullen door een random nummer generator
-of je kunt ze zelf invullen dit weerhoud je er niet van om overal 20 in te vullen maar dan word je character wel saai
-
-Pagina 4 de beschrijving van je character.
-
-Op deze pagina krijg je een aantal textvelden hierin kun je invullen hoe je character er uit ziet wat zijn z'n morele standpunten
-is hij goed of slecht of er tussenin
-
-en hier kun je een achtergrond kiezen waar komt je character vandaan en wat zijn z'n motieven om hier nu te zijn.
-
-Pagina 5 welke equipment draag je bij je
-
-dit is gebasseerd op de keuze van je klasse welk equipment je bij je kan dragen
-hier krijg je een kort overzich te zien van de equipment die je bij je hebt.
-
-Pagina 6 je character sheet
-
-hier krijg je een verzameling te zien van alles wat je hiervoor hebt ingevuld in een handig overzicht.
+    Een werkende versie van de Factuur Applicatie met alle bovengenoemde functionaliteiten.
+    Documentatie van het ontwikkelingsproces, inclusief een technisch ontwerp, installatie-instructies en gebruikershandleiding.
+    Broncode van de applicatie in een goed georganiseerd formaat.
+    Testrapporten die de uitgevoerde tests en de resultaten ervan documenteren.
